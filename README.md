@@ -5,6 +5,6 @@ Computes how many hours you need to render before you can buy an item.
 - programatically added button attached to decimal keyboard (MainVC.swift - inputAccessoryView)
 - unit testing (window_shopperTests.swift - Editor > Add Target > Unit Testing Bundle)
 
-![Main.png]
-![Keypad.png]
-![Result.png]
+<img src="Main.png">
+<img src="Keypad.png">
+<img src="Result.png">
